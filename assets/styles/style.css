@@ -13,6 +13,8 @@ body {
   justify-content: center;
   align-items: center;
   background-color: #f3e5d7;
+  box-sizing: border-box;
+  padding-top: 8%;
 }
 main {
   width: 51%;
